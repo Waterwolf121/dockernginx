@@ -1,2 +1,1 @@
-# dockernginx
-iCRY4sure
+# nginx
